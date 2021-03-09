@@ -3,6 +3,5 @@
 <code>🎓Tecnologia em análise e desenvolvimento de sistemas **(3º Semestre)**</code>
 
 Conhecimentos em HTML5, CSS e Javascript.  
-# Confira meu [Linkedin]!
+# Confira meu <a href="https://www.linkedin.com/in/erllan-rego-a7b4ab1a2/">Linkedin</a>!
 
-[Linkedin]:"https://www.linkedin.com/in/erllan-rego-a7b4ab1a2/"
