@@ -2,4 +2,7 @@
 **Sou estudante de programação. Atualmente tenho como principal objetivo adquirir um estágio.**  
 <code>🎓Tecnologia em análise e desenvolvimento de sistemas **(3º Semestre)**</code>
 
-Conhecimentos em HTML5, CSS e Javascript.
+Conhecimentos em HTML5, CSS e Javascript.  
+# Confira meu [Linkedin]!
+
+[Linkedin]:"https://www.linkedin.com/in/erllan-rego-a7b4ab1a2/"
