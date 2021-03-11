@@ -1,4 +1,4 @@
-<h1> Welcome!💻🖖</h1>
+<h1> Welcome!💻</h1>
 <p>I'm a student of programming. At the moment I have the goal of getting an internship.</p>
 <code>🎓Technology in systems analysis and development <strong>(3º Semester)</strong></code>
 
