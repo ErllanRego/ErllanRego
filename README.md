@@ -8,6 +8,7 @@
   
   <img src="img/HTML.png">
   <img src="img/CSS.png">
+  <img src="img/JAVASCRIPT.png">
   <img src="img/C-.png">
   <img src="img/CPP.png">
 
