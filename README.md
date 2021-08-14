@@ -1,6 +1,6 @@
 <h1> Welcome!💻</h1>
-<p>I'm a student of programming. At the moment I have the goal of getting an internship.</p>
-<code>🎓Technology in systems analysis and development <strong>(3º Semester)</strong></code>
+<p></p>
+<code>🎓Technology in systems analysis and development <strong>(4º Semester)</strong></code>
 
 <br>
 <h3>📚Languages and Tools:</h3><br>  
