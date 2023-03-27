@@ -1,6 +1,6 @@
 <h1> Welcome!💻</h1>
 <p></p>
-<code>🎓Technology in systems analysis and development <strong>(5º Semester)</strong></code>
+<code>🎓Graduated in Technology in systems analysis and development</code>
 
 <br>
 <h3>📚Languages and Tools:</h3><br>  
